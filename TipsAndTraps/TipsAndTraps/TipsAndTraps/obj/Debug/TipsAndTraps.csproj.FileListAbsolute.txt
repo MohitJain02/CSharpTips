@@ -1,0 +1,6 @@
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\bin\Debug\TipsAndTraps.exe.config
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\bin\Debug\TipsAndTraps.exe
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\bin\Debug\TipsAndTraps.pdb
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\obj\Debug\TipsAndTraps.csprojResolveAssemblyReference.cache
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\obj\Debug\TipsAndTraps.exe
+E:\Demo\C#\TipsAndTraps\TipsAndTraps\TipsAndTraps\obj\Debug\TipsAndTraps.pdb
